@@ -1,0 +1,6 @@
+databaseChangeLog:
+  # Sprint 1 changes
+  - include:
+      file: sprint1/db.changelog-1562474792.yaml
+      relativeToChangelogFile: true
+

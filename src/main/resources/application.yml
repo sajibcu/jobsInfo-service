@@ -1,0 +1,102 @@
+logging:
+  level:
+    root: INFO
+    com.redcode.jobsinfo: DEBUG
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/jobsinfo
+    username: jobsinfo
+    password: jobsinfo
+
+# the second level caching
+  jpa:
+    database-platform: com.redcode.jobsinfo.database.entity.utils.FixedPostgreSQL82Dialect
+    database: POSTGRESQL
+    show_sql: false
+    properties:
+      hibernate.temp.use_jdbc_metadata_defaults: false
+      hibernate.cache.use_second_level_cache: true
+      hibernate.cache.use_query_cache: false
+      hibernate.generate_statistics: false
+      hibernate.cache.region.factory_class: org.hibernate.cache.ehcache.SingletonEhCacheRegionFactory
+    hibernate:
+      ddl-auto: none
+      use-new-id-generator-mappings: true
+  servlet:
+    multipart:
+      max-file-size: -1
+      max-request-size: -1
+  profiles:
+    active: development
+
+mediaServer:
+  objectStore:
+    endpoint: http://127.0.0.1:9000
+    region: us-east-1
+    accessKey: USWUXHGYZQYFYFFIT3RE
+    secretKey: 9zjRzsjHqvQJ4ZpfwDRQRZ
+    bucket: onlineeducation
+
+server:
+  port: 8080
+
+liquibase:
+  enabled: true
+
+#emerging-it properties
+redcode:
+  admin:
+    email: redcode@gmail.com
+  mail: #mail config
+    host: smtprelay.redcode.com
+    username:
+    password:
+    port: 25
+    protocol: smtp
+    tls: false
+    auth: false
+    from: no-reply@redcode.com
+  async:
+    main:
+      corePoolSize: 2
+      maxPoolSize: 50
+      queueCapacity: 1000
+  cache: # Hibernate 2nd level cache, used by CacheConfiguration
+    timeToLiveSeconds: 3600
+    ehcache:
+      maxBytesLocalHeap: 16M
+    info:
+      contactEmail: emergingitltd@gmail.com
+      customercare:
+        phone: +880-1xxxxxxxxx
+  upload:
+      path: /home/moinul/Documents
+  maximumFileSize: 20 #Maximum upload file size will be 20MB
+  google:
+    recaptcha:
+      secretKey: 6LdutaoUAAAAALk48zPvDTUwETA1qvy4mcfLAv8J
+      verifyUrl: https://www.google.com/recaptcha/api/siteverify
+  cors:
+    allowed-origins: "http://localhost:4200"
+    allowed-methods: "POST, GET, OPTIONS,HEAD, DELETE,PUT"
+    allowed-headers: "Origin, X-Requested-With, Content-Type, Accept, Authorization,Cache-Control, X-Firebase-Auth"
+    max-age: 1800
+  swagger:
+    title: JobsInfo API
+    description: JobsInfo API documentation
+    version: 0.0.1
+    termsOfServiceUrl:
+    contact-name:
+    contact-url:
+    contact-email:
+    license:
+    licenseUrl:
+  scheduled:
+    daily: 0 0 6 * * ?
+    hourly: 0 0 */1 * * ?
+    halfhourly: 0 */30 * * * ?
+    minutely: 0 */1 * * * ?
+
+check-user-scopes: true
+info:
+  os: ${os.name}
