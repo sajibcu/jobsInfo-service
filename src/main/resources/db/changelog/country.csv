@@ -1,0 +1,247 @@
+id,name,iso_code,intl_dialing_code,allowed
+1,Afghanistan,AF,+93,FALSE
+2,Albania,AL,+355,FALSE
+3,Algeria,DZ,+213,FALSE
+4,American Samoa,AS,+1-684,FALSE
+5,Andorra,AD,+376,FALSE
+6,Angola,AO,+244,FALSE
+7,Anguilla,AI,+1-264,FALSE
+8,Antarctica,AQ,+672,FALSE
+9,Antigua and Barbuda,AG,+1-268,FALSE
+10,Argentina,AR,+54,FALSE
+11,Armenia,AM,+374,FALSE
+12,Aruba,AW,+297,FALSE
+13,Australia,AU,+61,FALSE
+14,Austria,AT,+43,FALSE
+15,Azerbaijan or Azerbaidjan (Former Azerbaijan Soviet Socialist Republic),AZ,+994,FALSE
+16,Bahamas,BS,+1-242,FALSE
+17,Bahrain,BH,+973,FALSE
+18,Bangladesh,BD,+880,TRUE
+19,Barbados,BB,+1-246,FALSE
+20,Belarus (Former Belorussian [Byelorussian] Soviet Socialist Republic),BY,+375,FALSE
+21,Belgium,BE,+32,FALSE
+22,Belize (Former British Honduras),BZ,+501,FALSE
+23,Benin (Former Dahomey),BJ,+229,FALSE
+24,Bermuda,BM,+1-441,FALSE
+25,Bhutan,BT,+975,FALSE
+26,Bolivia,BO,+591,FALSE
+27,Bosnia and Herzegovina,BA,+387,FALSE
+28,Botswana (Former Bechuanaland),BW,+267,FALSE
+29,Bouvet Island (Territory of Norway),BV,,FALSE
+30,Brazil,BR,+55,FALSE
+31,British Indian Ocean Territory (BIOT),IO,,FALSE
+32,Brunei (Negara Brunei Darussalam),BN,+673,FALSE
+33,Bulgaria,BG,+359,FALSE
+34,Burkina Faso (Former Upper Volta),BF,+226,FALSE
+35,Burundi (Former Urundi),BI,+257,FALSE
+36,Cambodia,KH,+855,FALSE
+37,Cameroon (Former French Cameroon),CM,+237,FALSE
+38,Canada,CA,+1,TRUE
+39,Cape Verde,CV,+238,FALSE
+40,Cayman Islands,KY,+1-345,FALSE
+41,Central African Republic,CF,+236,FALSE
+42,Chad,TD,+235,FALSE
+43,Chile,CL,+56,FALSE
+44,China,CN,+86,FALSE
+45,Christmas Island,CX,+53,FALSE
+46,Cocos (Keeling) Islands,CC,+61,FALSE
+47,Colombia,CO,+57,FALSE
+48,Comoros,KM,+269,FALSE
+49,Congo,CD,+243,FALSE
+50,Congo,CG,+242,FALSE
+51,Cook Islands (Former Harvey Islands),CK,+682,FALSE
+52,Costa Rica,CR,+506,FALSE
+53,Cote D'Ivoire (Former Ivory Coast),CI,+225,FALSE
+54,Croatia (Hrvatska),HR,+385,FALSE
+55,Cuba,CU,+53,FALSE
+56,Cyprus,CY,+357,FALSE
+57,Czech Republic,CZ,+420,FALSE
+58,Czechoslavakia (Former) See CZ Czech Republic or Slovakia,CS,,FALSE
+59,Denmark,DK,+45,FALSE
+60,Djibouti,DJ,+253,FALSE
+61,Dominica,DM,+1-767,FALSE
+62,Dominican Republic,DO,+1-809 and +1-829,FALSE
+63,East Timor (Former Portuguese Timor),TP,+670,FALSE
+64,Ecuador,EC,+593,FALSE
+65,Egypt (Former United Arab Republic - with Syria),EG,+20,FALSE
+66,El Salvador,SV,+503,FALSE
+67,Equatorial Guinea (Former Spanish Guinea),GQ,+240,FALSE
+68,Eritrea (Former Eritrea Autonomous Region in Ethiopia),ER,+291,FALSE
+69,Estonia (Former Estonian Soviet Socialist Republic),EE,+372,FALSE
+70,Ethiopia,ET,+251,FALSE
+71,Falkland Islands (Islas Malvinas),FK,+500,FALSE
+72,Faroe Islands,FO,+298,FALSE
+73,Fiji,FJ,+679,FALSE
+74,Finland,FI,+358,FALSE
+75,France,FR,+33,FALSE
+76,French Guiana or French Guyana,GF,+594,FALSE
+77,French Polynesia (Former French Colony of Oceania),PF,+689,FALSE
+78,French Southern Territories and Antarctic Lands,TF,,FALSE
+79,Gabon (Gabonese Republic),GA,+241,FALSE
+80,Gambia,GM,+220,FALSE
+81,Georgia (Former Georgian Soviet Socialist Republic),GE,+995,FALSE
+82,Germany,DE,+49,FALSE
+83,Ghana (Former Gold Coast),GH,+233,FALSE
+84,Gibraltar,GI,+350,FALSE
+85,Great Britain (United Kingdom),GB,,FALSE
+86,Greece,GR,+30,FALSE
+87,Greenland,GL,+299,FALSE
+88,Grenada,GD,+1-473,FALSE
+89,Guadeloupe,GP,+590,FALSE
+90,Guam,GU,+1-671,FALSE
+91,Guatemala,GT,+502,FALSE
+92,Guinea (Former French Guinea),GN,+224,FALSE
+93,Guinea-Bissau (Former Portuguese Guinea),GW,+245,FALSE
+94,Guyana (Former British Guiana),GY,+592,FALSE
+95,Haiti,HT,+509,FALSE
+96,Heard Island and McDonald Islands (Territory of Australia),HM,,FALSE
+97,Holy See (Vatican City State),VA,,FALSE
+98,Honduras,HN,+504,FALSE
+99,Hong Kong,HK,+852,FALSE
+100,Hungary,HU,+36,FALSE
+101,Iceland,IS,+354,FALSE
+102,India,IN,+91,FALSE
+103,Indonesia,ID,+62,FALSE
+104,Iran,IR,+98,FALSE
+105,Iraq,IQ,+964,FALSE
+106,Ireland,IE,+353,FALSE
+107,Israel,IL,+972,FALSE
+108,Italy,IT,+39,FALSE
+109,Jamaica,JM,+1-876,FALSE
+110,Japan,JP,+81,FALSE
+111,Jordan (Former Transjordan),JO,+962,FALSE
+112,Kazakstan or Kazakhstan (Former Kazakh Soviet Socialist Republic),KZ,+7,FALSE
+113,Kenya (Former British East Africa),KE,+254,FALSE
+114,Kiribati (Pronounced keer-ree-bahss) (Former Gilbert Islands),KI,+686,FALSE
+115,Korea(North Korea),KP,+850,FALSE
+116,Korea (South Korea),KR,+82,FALSE
+117,Kuwait,KW,+965,FALSE
+118,Kyrgyzstan (Kyrgyz Republic) (Former Kirghiz Soviet Socialist Republic),KG,+996,FALSE
+119,Lao People's Democratic Republic (Laos),LA,+856,FALSE
+120,Latvia (Former Latvian Soviet Socialist Republic),LV,+371,FALSE
+121,Lebanon,LB,+961,FALSE
+122,Lesotho (Former Basutoland),LS,+266,FALSE
+123,Liberia,LR,+231,FALSE
+124,Libya (Libyan Arab Jamahiriya),LY,+218,FALSE
+125,Liechtenstein,LI,+423,FALSE
+126,Lithuania (Former Lithuanian Soviet Socialist Republic),LT,+370,FALSE
+127,Luxembourg,LU,+352,FALSE
+128,Macau,MO,+853,FALSE
+129,Macedonia,MK,+389,FALSE
+130,Madagascar (Former Malagasy Republic),MG,+261,FALSE
+131,Malawi,MW,+265,FALSE
+132,Malaysia,MY,+60,FALSE
+133,Maldives,MV,+960,FALSE
+134,Mali (Former French Sudan and Sudanese Republic),ML,+223,FALSE
+135,Malta,MT,+356,FALSE
+136,Marshall Islands (Former Marshall Islands District - Trust Territory of the Pacific Islands),MH,+692,FALSE
+137,Martinique (French),MQ,+596,FALSE
+138,Mauritania,MR,+222,FALSE
+139,Mauritius,MU,+230,FALSE
+140,Mayotte (Territorial Collectivity of Mayotte),YT,+269,FALSE
+141,Mexico,MX,+52,FALSE
+142,Micronesia,FM,+691,FALSE
+143,Moldova,MD,+373,FALSE
+144,Monaco,MC,+377,FALSE
+145,Mongolia (Former Outer Mongolia),MN,+976,FALSE
+146,Montserrat,MS,+1-664,FALSE
+147,Morocco,MA,+212,FALSE
+148,Mozambique (Former Portuguese East Africa),MZ,+258,FALSE
+149,Myanmar,MM,+95,FALSE
+150,Namibia,NA,+264,FALSE
+151,Nauru (Former Pleasant Island),NR,+674,FALSE
+152,Nepal,NP,+977,FALSE
+153,Netherlands,NL,+31,FALSE
+154,Netherlands Antilles (Former Curacao and Dependencies),AN,+599,FALSE
+155,New Caledonia,NC,+687,FALSE
+156,New Zealand (Aotearoa),NZ,+64,FALSE
+157,Nicaragua,NI,+505,FALSE
+158,Niger,NE,+227,FALSE
+159,Nigeria,NG,+234,FALSE
+160,Niue (Former Savage Island),NU,+683,FALSE
+161,Norfolk Island,NF,+672,FALSE
+162,Northern Mariana Islands (Former Mariana Islands District - Trust Territory of the Pacific Islands),MP,+1-670,FALSE
+163,Norway,NO,+47,FALSE
+164,Oman,OM,+968,FALSE
+165,Pakistan (Former West Pakistan),PK,+92,FALSE
+166,Palau (Former Palau District - Trust Terriroty of the Pacific Islands),PW,+680,FALSE
+167,Palestinian State (Proposed),PS,+970,FALSE
+168,Panama,PA,+507,FALSE
+169,Papua New Guinea (Former Territory of Papua and New Guinea),PG,+675,FALSE
+170,Paraguay,PY,+595,FALSE
+171,Peru,PE,+51,FALSE
+172,Philippines,PH,+63,FALSE
+173,Pitcairn Island,PN,,FALSE
+174,Poland,PL,+48,FALSE
+175,Portugal,PT,+351,FALSE
+176,Puerto Rico,PR,+1-787 or +1-939,FALSE
+177,Qatar,QA,+974,FALSE
+178,Reunion (French) (Former Bourbon Island),RE,+262,FALSE
+179,Romania,RO,+40,FALSE
+180,Russia - USSR,SU,,FALSE
+181,Russian Federation,RU,+7,FALSE
+182,Rwanda (Rwandese Republic) (Former Ruanda),RW,+250,FALSE
+183,Saint Helena,SH,+290,FALSE
+184,Saint Kitts and Nevis (Former Federation of Saint Christopher and Nevis),KN,+1-869,FALSE
+185,Saint Lucia,LC,+1-758,FALSE
+186,Saint Pierre and Miquelon,PM,+508,FALSE
+187,Saint Vincent and the Grenadines,VC,+1-784,FALSE
+188,Samoa (Former Western Samoa),WS,+685,FALSE
+189,San Marino,SM,+378,FALSE
+190,Sao Tome and Principe,ST,+239,FALSE
+191,Saudi Arabia,SA,+966,FALSE
+192,Serbia,RS,,FALSE
+193,Senegal,SN,+221,FALSE
+194,Seychelles,SC,+248,FALSE
+195,Sierra Leone,SL,+232,FALSE
+196,Singapore,SG,+65,FALSE
+197,Slovakia,SK,+421,FALSE
+198,Slovenia,SI,+386,FALSE
+199,Solomon Islands (Former British Solomon Islands),SB,+677,FALSE
+200,Somalia,SO,+252,FALSE
+201,South Africa (Former Union of South Africa),ZA,+27,FALSE
+202,South Georgia and the South Sandwich Islands,GS,,FALSE
+203,Spain,ES,+34,FALSE
+204,Sri Lanka,LK,+94,FALSE
+205,Sudan (Former Anglo-Egyptian Sudan),SD,+249,FALSE
+206,Suriname,SR,+597,FALSE
+207,Svalbard (Spitzbergen) and Jan Mayen Islands,SJ,,FALSE
+208,Swaziland,SZ,+268,FALSE
+209,Sweden,SE,+46,FALSE
+210,Switzerland,CH,+41,FALSE
+211,Syria (Syrian Arab Republic),SY,+963,FALSE
+212,Taiwan (Former Formosa),TW,+886,FALSE
+213,Tajikistan (Former Tajik Soviet Socialist Republic),TJ,+992,FALSE
+214,Tanzania,TZ,+255,FALSE
+215,Thailand (Former Siam),TH,+66,FALSE
+216,Togo (Former French Togoland),TG,,FALSE
+217,Tokelau,TK,+690,FALSE
+218,Tonga (Former Friendly Islands),TO,+676,FALSE
+219,Trinidad and Tobago,TT,+1-868,FALSE
+220,Tromelin Island,TE,,FALSE
+221,Tunisia,TN,+216,FALSE
+222,Turkey,TR,+90,FALSE
+223,Turkmenistan (Former Turkmen Soviet Socialist Republic),TM,+993,FALSE
+224,Turks and Caicos Islands,TC,+1-649,FALSE
+225,Tuvalu (Former Ellice Islands),TV,+688,FALSE
+226,Uganda,UG,+256,FALSE
+227,Ukraine,UA,+380,FALSE
+228,United Arab Emirates (UAE),AE,+971,FALSE
+229,United Kingdom (Great Britain / UK),GB,+44,TRUE
+230,United States,US,+1,TRUE
+231,United States Minor Outlying Islands,UM,,FALSE
+232,Uruguay,UY,+598,FALSE
+233,Uzbekistan (Former UZbek Soviet Socialist Republic),UZ,+998,FALSE
+234,Vanuatu (Former New Hebrides),VU,+678,FALSE
+235,Vatican City State (Holy See),VA,+418,FALSE
+236,Venezuela,VE,+58,FALSE
+237,Vietnam,VN,+84,FALSE
+238,Virgin Islands,VI,+1-284,FALSE
+239,Virgin Islands,VQ,+1-340,FALSE
+240,Wallis and Futuna Islands,WF,+681,FALSE
+241,Western Sahara (Former Spanish Sahara),EH,,FALSE
+242,Yemen,YE,+967,FALSE
+243,Yugoslavia,YU,,FALSE
+244,Zaire,ZR,,FALSE
+245,Zambia,ZM,+260,FALSE
+246,Zimbabwe,ZW,+263,FALSE
