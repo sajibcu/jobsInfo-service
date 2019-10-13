@@ -63,9 +63,6 @@ public class User extends AbstractAuditingEntity {
     @Column(name = "nid", length = 25)
     private String nid;
 
-    @Size(max = 25)
-    @Column(name = "passport", length = 25)
-    private String passport;
 
     @Size(max = 60)
     @Column(length = 60)
@@ -93,10 +90,5 @@ public class User extends AbstractAuditingEntity {
     @Column(name = "locked")
     private boolean locked;
 
-    @Column(name = "credentials_expired")
-    private boolean credentialsNonExpired;
-
-    @Column(name = "account_expired")
-    private boolean accountNonExpired;
 
 }

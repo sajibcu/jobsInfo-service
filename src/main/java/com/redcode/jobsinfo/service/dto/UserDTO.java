@@ -50,10 +50,6 @@ public class UserDTO {
     @Size(max = 20)
     private String nid;
 
-    @Size(max = 20)
-    private String passport;
-
-
     private String password;
 
     private String address;
@@ -75,7 +71,7 @@ public class UserDTO {
 
     public UserDTO(User user) {
         this(user.getId(), user.getFirstName(), user.getLastName(), user.getDob(), user.getGender(),
-                user.getMobile(), user.getTelephone(), user.getEmail(), (user.getUserType() != null) ? user.getUserType().getId() : 0, user.getNid(), user.getPassport(), null,
+                user.getMobile(), user.getTelephone(), user.getEmail(), (user.getUserType() != null) ? user.getUserType().getId() : 0, user.getNid(), null,
                 user.getAddress(), user.getCity(), user.getState(), user.getPostCode(), user.getCountry(),
                 user.isActivated(), user.isLocked(), "");
     }

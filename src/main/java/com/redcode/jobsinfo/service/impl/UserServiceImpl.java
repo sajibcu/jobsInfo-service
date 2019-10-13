@@ -252,7 +252,6 @@ public class UserServiceImpl implements UserService {
         user.setMobile(userDTO.getMobile());
         user.setTelephone(userDTO.getTelephone());
         user.setNid(userDTO.getNid());
-        user.setPassport(userDTO.getPassport());
 
         if (userDTO.getUserType() != 0 && userDTO.getUserType() != null) {
             Role role = roleRepository.findOneById(userDTO.getUserType())

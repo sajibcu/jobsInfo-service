@@ -4,12 +4,15 @@ databaseChangeLog:
       file: sprint1/db.changelog-1562474792.yaml
       relativeToChangelogFile: true
   - include:
-      file: sprint9/db.changelog-1570246015.yaml
+      file: sprint1/db.changelog-1570246015.yaml
       relativeToChangelogFile: true
   - include:
-      file: sprint9/db.changelog-1570247015.yaml
+      file: sprint1/db.changelog-1570247015.yaml
       relativeToChangelogFile: true
   - include:
       file: sprint1/db.changelog-1562649189.yaml
+      relativeToChangelogFile: true
+  - include:
+      file: sprint1/db.changelog-1570248016.yaml
       relativeToChangelogFile: true
 
